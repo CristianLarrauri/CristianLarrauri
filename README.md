@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Larrauri</h1>
+
+<h3 align="center">Soy Desarrollador Full-Stack.  Soy una persona proactiva, responsable y con la curiosidad como motor del aprendizaje. Tengo experiencia en liderazgo de grupos en distintos ambitos, por lo cual la organizacion y el trabajo en equipo son mi fuerte.  Realicé el bootcamp de full-stack developer de mas de 700 horas en Henry, en esta experiencia adquirí conocimientos en distintas tecnologías de desarrollo web como HTML, CSS, Javascrip, React, Redux, Express, SQL y Sequelize entre otras.</h3>
+
 <h3 align="center">I am a Full-Stack Developer. I am a proactive and responsible person with curiosity as a learning engine. I have experience in group leadership in different areas, so organization and teamwork are my forte. I did the full-stack developer bootcamp of more than 700 hours in Henry, in this experience I acquired knowledge in different web development technologies such as HTML, CSS, Javascript, React, Redux, Express, SQL and Sequelize among others.</h3>
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Redux, Express, SQL and Sequelize**
